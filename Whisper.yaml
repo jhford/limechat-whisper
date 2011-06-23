@@ -6,7 +6,7 @@ log-view:
     scroller-highlight-color: '#d33b54'
 
 member-list:
-    font-family: 'Lucida Grande'
+    font-family: 'Menlo'
     font-size: 12
     color: '#444'
     background-color: '#fff'
@@ -23,21 +23,21 @@ member-list:
 server-tree:
     background-color: '#fff'
     highlight:
-        color: '#d33b54'
+        color: '#0000ff'
     newtalk:
-        color: '#d33b54'
+        color: '#0000ff'
     unread:
-        color: '#d33b54'
+        color: '#ff8c00'
     normal:
         active:
-            color: '#444'
+            color: '#000'
         inactive:
-            color: '#ccc'
+            color: '#000'
     selected:
         active:
-            color: '#fff'
+            color: '#000'
         inactive:
-            color: '#eee'
+            color: '#000'
         background:
             top-line-color: '#68788c'
             bottom-line-color: '#405770'
